@@ -1,4 +1,4 @@
-# Projeto *Super Mario Bros.* - O Filme 
+# Projeto *Super Mario Bros* - O Filme 
 
 ## 🎯 Objetivo
 O projeto disponibilizado por Dev em dobro, visa a criação da landingpage temática utilizando as tecnologias - HTML, CSS;  JS e apresenta melhores práticas de desenvolvimento. 
